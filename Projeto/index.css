@@ -56,3 +56,13 @@ body {
   font-size: 1.1rem;
   line-height: 1.6;
 }
+
+.social-icon i {
+  transition: transform 0.3s ease, color 0.3s ease;
+  display: inline-block;
+}
+
+.social-icon:hover i {
+  transform: scale(1.2) rotate(5deg);
+  color: #0dcaf0; /* Azul claro para LinkedIn/GitHub - podes trocar */
+}
