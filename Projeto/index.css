@@ -66,3 +66,9 @@ body {
   transform: scale(1.2) rotate(5deg);
   color: #0dcaf0; /* Azul claro para LinkedIn/GitHub - podes trocar */
 }
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
