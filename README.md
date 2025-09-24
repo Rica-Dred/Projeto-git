@@ -49,6 +49,10 @@ Fica à vontade para me contactar ou seguir o meu trabalho nas redes sociais:
 * **GitHub**: [https://github.com/Rica-Dred](https://github.com/Rica-Dred)
 * **LinkedIn**: [https://www.linkedin.com/in/ricardo-galvao-evans](https://www.linkedin.com/in/ricardo-galvao-evans)
 
+
+## LICENÇA
+Este projeto está licenciado sob a Licença MIT - consulte o ficheiro [LICENSE](LICENSE) para obter detalhes
+
 ---
 
 Criado por Ricardo Evans © 2025
